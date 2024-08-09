@@ -1,10 +1,11 @@
 {
-  "name": "@acapxasyraf/vue-session",
-  "version": "1.0.0",
+  "name": "vue3-session",
+  "version": "1.1.0",
   "description": "A simplistic session plugin for VueJS backed by SessionStorage",
   "main": "index.js",
   "unpkg": "index.unpkg.js",
   "esm": "index.esm.js",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
